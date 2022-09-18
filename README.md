@@ -10,4 +10,4 @@ A HA k3s cluster build with:
 - an [External TCP Load Balancer](https://cloud.google.com/load-balancing/docs/network) to expose to API server to allow interaction with the cluster using e.g. `kubectl`
 
 
-<img src="docs/k3s-on-gcp.png">
+![image](https://user-images.githubusercontent.com/23049337/190897808-442dfdff-ac60-4d1a-bfcb-1032d5ec0d89.png)
